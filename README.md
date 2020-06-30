@@ -1,5 +1,5 @@
 # sympy
-![]https://www.sympy.org/static/images/logo.png
+![]'https://www.sympy.org/static/images/logo.png'
 
 Ejercicios de matemáticas utilizando SymPy
 
