@@ -1,4 +1,6 @@
 # sympy
+![]https://www.sympy.org/static/images/logo.png
+
 Ejercicios de matemáticas utilizando SymPy
 
 Estos archivos corresponden a apuntes de aprendizaje, por tanto, pueden contener errores y la manera de resolverlos puede no ser la óptima.
